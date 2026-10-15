@@ -30,7 +30,7 @@ handling of writes - Replication, placement, and failure handling
 > design decisions, tests, and limitations in its repository as they
 > become available.
 
-**Repository:** [https://github.com/dhinesh20022806/s3-from-scratch]
+**Repository:** (s3)[https://github.com/dhinesh20022806/s3-from-scratch]
 
 ## Technical Skills
 
