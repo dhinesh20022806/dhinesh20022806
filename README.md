@@ -30,7 +30,7 @@ handling of writes - Replication, placement, and failure handling
 > design decisions, tests, and limitations in its repository as they
 > become available.
 
-**Repository:** (s3)[https://github.com/dhinesh20022806/s3-from-scratch]
+**Repository:** [s3](https://github.com/dhinesh20022806/s3-from-scratch)
 
 ## Technical Skills
 
@@ -74,7 +74,7 @@ alerts.
 **What it explores:** scheduled data collection, webhook-driven
 processing, price history, and email notifications.
 
-**Repository:** [https://github.com/dhinesh20022806/course_demand_intelligence]
+**Repository:** [course](https://github.com/dhinesh20022806/course_demand_intelligence)
 
 ## How I Learn and Build
 
